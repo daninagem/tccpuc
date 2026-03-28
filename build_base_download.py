@@ -1,4 +1,5 @@
-# Script de download e consolidação dos microdados do PNAD-C
+# Script de download e consolidação dos microdados do PNAD-C para eda.py
+# Autor: Alberto Nagem -- Cientista de dados pela Mackenzie
 
 from __future__ import annotations
 
