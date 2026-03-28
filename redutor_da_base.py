@@ -1,3 +1,6 @@
+# Autor: Alberto Nagem — Cientista de Dados pela Universidade Presbiteriana Mackenzie
+# Compacta em uma base csv.gz compativel com colab, bom como base de NB Jupyter
+
 import pandas as pd
 from pathlib import Path
 
