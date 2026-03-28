@@ -2,7 +2,7 @@
 ---
 # TCCPUC
 Repositórios e documentos do trabalho
-![Banner PAI](https://github.com/daninagem/tccpuc/blob/main/Docs/banner.png)
+![Banner PAI](https://github.com/daninagem/tccpuc/blob/main/docs/banner.png)
 
 ## 📌 Descrição do Projeto
 ---
