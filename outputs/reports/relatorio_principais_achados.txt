@@ -1,0 +1,23 @@
+Relatório de principais achados — PNAD-C / EDA
+Autor: Alberto Nagem — Universidade Presbiteriana Mackenzie
+Base: C:\Dani trabalho\definitivo\GitHub\dataset\pnadc_ocupados_2015_2025_base.csv.gz
+Linhas após preparação: 8,596,751
+
+H1: o menor gap relativo entre Mulheres Pretas/Pardas e Homens Brancos aparece em 'Pós-graduação (ou equivalente)', com -49.1%.
+H2: o maior retorno marginal para Mulheres Pretas/Pardas ocorre em 'Superior completo', com 75.2%.
+H3: no grupo 'Homens Brancos', a maior concentração ocupacional está em '7. Construção, artes mecânicas e outros ofícios'.
+H3: no grupo 'Homens Pretos/Pardos', a maior concentração ocupacional está em '7. Construção, artes mecânicas e outros ofícios'.
+H3: no grupo 'Mulheres Brancas', a maior concentração ocupacional está em '5. Serviços, vendedores dos comércios e mercados'.
+H3: no grupo 'Mulheres Pretas/Pardas', a maior concentração ocupacional está em '5. Serviços, vendedores dos comércios e mercados'.
+H3.2: entre altamente escolarizados, o maior percentual em 'Diretores e gerentes' está em 'Homens Brancos', com 14.62%.
+H4_A: média anual de formalização para Mulheres Pretas/Pardas varia de 54.5% a 57.4% (formalização ampliada).
+H4_B: média anual de formalização para Mulheres Pretas/Pardas varia de 62.9% a 66.3% (formalização por carteira — apenas vínculos assalariados/passíveis de carteira).
+H5_A: dentro de Conta própria, a maior informalidade está em 'Homens Pretos/Pardos', com 73.10%.
+H5_B: no escopo assalariado elegível à carteira, a maior informalidade está em 'Mulheres Pretas/Pardas', com 35.52%.
+H6: entre jovens, o pior gap para Mulheres Pretas/Pardas ocorre em 'Superior completo', com -40.6%.
+H7_A: no recorte 'Diretoria detalhada (CBO)', o maior total acumulado de cadeiras no período está em 'Homens Brancos', com 3596961.
+H7_A: na razão média de representação relativa, o grupo mais sobre-representado é 'Homens Brancos' (2.29) e o mais sub-representado é 'Mulheres Pretas/Pardas' (0.25).
+H7_B: no recorte 'Gerentes (CBO detalhado)', o maior total acumulado de cadeiras no período está em 'Homens Brancos', com 21292293.
+H7_B: na razão média de representação relativa, o grupo mais sobre-representado é 'Homens Brancos' (1.53) e o mais sub-representado é 'Mulheres Pretas/Pardas' (0.63).
+H7_C: no recorte 'Diretores + gerentes (grande grupo)', o maior total acumulado de cadeiras no período está em 'Homens Brancos', com 64580584.
+H7_C: na razão média de representação relativa, o grupo mais sobre-representado é 'Homens Brancos' (1.63) e o mais sub-representado é 'Mulheres Pretas/Pardas' (0.56).
