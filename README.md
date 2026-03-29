@@ -26,10 +26,6 @@ Acesse o notebook completo com execução online via Binder:
   </a>
 </p>
 
-<p align="center">
-  <i>Execução completa no navegador • Sem instalação • Ambiente reproduzível</i>
-</p>
-
 ## 🎯 Objetivo
 ---
 O principal objetivo deste projeto é corroborar, por meio de dados oficiais e análise quantitativa, as discussões do TCC na área de Psicologia Organizacional e Gestão de Pessoas, trazendo uma base concreta para temas frequentemente tratados de forma subjetiva.
