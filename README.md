@@ -14,7 +14,14 @@ O estudo investiga como desigualdades de sexo e raça/cor se manifestam no merca
 
 ---
 ## 📓 Notebook do Projeto
-[![Ver Notebook](https://img.shields.io/badge/Notebook-PNADC%20IBGE-blue?logo=jupyter)](https://github.com/daninagem/tccpuc/blob/d17fc1bda71fced8e0f75250e9928e87356d7cb1/notebook/notebook_jupyter.ipynb) [![Você também pode abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daninagem/tccpuc/blob/main/notebook/notebook_jupyter.ipynb) <br>
+
+Acesse o notebook completo
+
+[![Ver Notebook](https://img.shields.io/badge/Notebook-PNADC%20IBGE-blue?logo=jupyter)](https://github.com/daninagem/tccpuc/blob/d17fc1bda71fced8e0f75250e9928e87356d7cb1/notebook/notebook_jupyter.ipynb)
+
+Ou você também pode abrir no Colab
+
+[![Você também pode abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daninagem/tccpuc/blob/main/notebook/notebook_jupyter.ipynb) <br>
 
 ## 🌐 Experiência Interativa
 
