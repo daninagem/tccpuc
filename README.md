@@ -14,6 +14,7 @@ O estudo investiga como desigualdades de sexo e raça/cor se manifestam no merca
 
 ## 📓 Notebook do Projeto
 [![Ver Notebook](https://img.shields.io/badge/Notebook-PNADC%20IBGE-blue?logo=jupyter)](https://github.com/daninagem/tccpuc/blob/d17fc1bda71fced8e0f75250e9928e87356d7cb1/notebook/notebook_jupyter.ipynb)
+
 ---
 
 ## 🎯 Objetivo
