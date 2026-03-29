@@ -12,7 +12,7 @@ A base analítica e todo o processo de tratamento, modelagem e análise explorat
 
 O estudo investiga como desigualdades de sexo e raça/cor se manifestam no mercado de trabalho brasileiro, evitando ao máximo dependência de estudos secundários e reduzindo vieses interpretativos, ao priorizar dados públicos, metodologia transparente e análise própria.
 
-## 📓 Notebook do Projeto <br>
+## 📓 Notebook do Projeto
 [![Ver Notebook](https://img.shields.io/badge/Notebook-PNADC%20IBGE-blue?logo=jupyter)](https://github.com/daninagem/tccpuc/blob/d17fc1bda71fced8e0f75250e9928e87356d7cb1/notebook/notebook_jupyter.ipynb)
 ---
 
