@@ -20,11 +20,9 @@ O estudo investiga como desigualdades de sexo e raça/cor se manifestam no merca
 
 Acesse o notebook completo com execução online via Binder:
 
-<p align="center">
   <a href="https://mybinder.org/v2/gh/daninagem/tccpuc/main?labpath=notebook/notebook_jupyter2.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Abrir no Binder">
   </a>
-</p>
 
 ## 🎯 Objetivo
 ---
