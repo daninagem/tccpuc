@@ -16,6 +16,20 @@ O estudo investiga como desigualdades de sexo e raça/cor se manifestam no merca
 ## 📓 Notebook do Projeto
 [![Ver Notebook](https://img.shields.io/badge/Notebook-PNADC%20IBGE-blue?logo=jupyter)](https://github.com/daninagem/tccpuc/blob/d17fc1bda71fced8e0f75250e9928e87356d7cb1/notebook/notebook_jupyter.ipynb)
 
+## 🌐 Experiência Interativa
+
+Acesse o notebook completo com execução online via Binder:
+
+<p align="center">
+  <a href="https://mybinder.org/v2/gh/daninagem/tccpuc/main?labpath=notebook/notebook_jupyter2.ipynb">
+    <img src="https://mybinder.org/badge_logo.svg" alt="Abrir no Binder">
+  </a>
+</p>
+
+<p align="center">
+  <i>Execução completa no navegador • Sem instalação • Ambiente reproduzível</i>
+</p>
+
 ## 🎯 Objetivo
 ---
 O principal objetivo deste projeto é corroborar, por meio de dados oficiais e análise quantitativa, as discussões do TCC na área de Psicologia Organizacional e Gestão de Pessoas, trazendo uma base concreta para temas frequentemente tratados de forma subjetiva.
