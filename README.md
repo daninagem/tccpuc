@@ -27,7 +27,7 @@ Ou você também pode abrir no Colab
 
 Acesse o notebook completo com execução online via Binder:
 
-  <a href="https://mybinder.org/v2/gh/daninagem/tccpuc/main?labpath=notebook/notebook_jupyter2.ipynb">
+  <a href="https://mybinder.org/v2/gh/daninagem/tccpuc/main?labpath=notebook/notebook_jupyter3.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Abrir no Binder">
   </a>
 
